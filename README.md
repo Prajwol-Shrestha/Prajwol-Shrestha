@@ -1,4 +1,11 @@
-### Hi there 👋
+<div align="center">
+  <h1> Hi there 👋 <br>
+    <img src="https://komarev.com/ghpvc/?username=Prajwol-Shrestha" alt="prajwol" />
+    <img src="https://img.shields.io/github/stars/Prajwol-Shrestha?label=Stars" alt="Stars Badge"/>
+    <img src="https://img.shields.io/github/followers/Prajwol-Shrestha?label=Followers" alt="Followers"/>
+  </h1>
+</div>
+
 
 <!--
 **Prajwol-Shrestha/Prajwol-Shrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +22,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+ -->
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Prajwol-Shrestha&theme=dark&show_icons=true" </div>
 
-![Prajwol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajwol-Shrestha&show_icons=true&theme=radical)
+<div align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwol-Shrestha" </div>
