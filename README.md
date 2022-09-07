@@ -26,4 +26,4 @@ Here are some ideas to get you started:
  -->
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Prajwol-Shrestha&theme=dark&show_icons=true" </div>
 
-<div align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwol-Shrestha" </div>
+<div align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwol-Shrestha&hide=html,css" </div>
