@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
  -->
+ <!-- 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Prajwol-Shrestha&theme=dark&show_icons=true" </div>
+-->
 
 <div align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwol-Shrestha&hide=html,css" </div>
