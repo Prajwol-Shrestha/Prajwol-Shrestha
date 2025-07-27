@@ -56,7 +56,7 @@ Welcome to my GitHub Profile! I'm a final-year IT student passionate about build
 
 ---
 
-## 📊 **My Github Activity
+## 📊 Github Activity
 
 ![](https://github-readme-streak-stats-eight.vercel.app/?user=prajwol-shrestha&theme=dark&hide_border=true)
 
