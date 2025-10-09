@@ -16,7 +16,7 @@ Welcome to my GitHub Profile! I'm a final-year IT student passionate about build
 
 ## 🛠️ **Tech Stack**
 
-### Frontend
+### Frontend / Mobile
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -31,6 +31,8 @@ Welcome to my GitHub Profile! I'm a final-year IT student passionate about build
 ![Remix](https://img.shields.io/badge/Remix-000000?style=flat&logo=remix&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=Zustand&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 
 
 ### Backend
@@ -44,6 +46,13 @@ Welcome to my GitHub Profile! I'm a final-year IT student passionate about build
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=flat&logo=testinglibrary&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white)
+![Maestro](https://img.shields.io/badge/Maestro-0094F5?style=flat&logo=maestro&logoColor=white)
+
+### Automation
+
+![n8n](https://img.shields.io/badge/n8n-4E9A06?style=flat&logo=n8n&logoColor=white)
+
 
 ### Tools & Platforms
 
@@ -52,6 +61,8 @@ Welcome to my GitHub Profile! I'm a final-year IT student passionate about build
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 
 ---
