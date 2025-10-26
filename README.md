@@ -8,9 +8,10 @@ Welcome to my GitHub Profile! I'm a final-year IT student passionate about build
 
 ## 🧠 **About Me**
 
-- 🎓 Final year IT student with a strong interest in full-stack development.
-- 🚀 I build modern, responsive, and scalable user interfaces using React, Next.js, TypeScript, and Tailwind CSS, focusing on performance and accessibility.
-- 🛠️ On the backend, I develop robust APIs and application logic using Node.js, Express, and NestJS, following best practices for clean architecture and maintainability.
+- 🎓 IT graduate and Full-Stack Developer with a passion for building modern, high-performance web applications.
+- 🚀 I specialize in crafting responsive, accessible, and scalable user interfaces using React, Next.js, TypeScript, and Tailwind CSS.
+- 🛠️ On the backend, I design and develop robust APIs and application logic with Node.js, Express, and NestJS, following best practices for clean architecture, security, and maintainability.
+- 💡 I enjoy solving complex problems, learning new technologies, and delivering impactful digital experiences.
 
 ---
 
