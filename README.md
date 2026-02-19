@@ -2,7 +2,7 @@
 
 💻 **Web Developer | Problem Solver | Lifelong Learner**
 
-Welcome to my GitHub Profile! I'm a final-year IT student passionate about building modern web applications. I love solving problems and turning ideas into practical, scalable solutions.
+Welcome to my GitHub Profile! I'm an IT graduate passionate about building modern web applications. I love solving problems and turning ideas into practical, scalable solutions.
 
 ---
 
